@@ -1,6 +1,6 @@
-Font: calibri, serif, sans-serif, chiller, arial black
+Font: serif, sans-serif, cursive, monospace, display
 Style: regular, italic, bold, bold italic
-Size: 1, 1000, 30, 10.5 
+Size: 1, 4000, 14, 13.5 
 Color: red, black, blue
 Underline: no, single, double, bold
 Underline color: no, red, black
